@@ -1,0 +1,139 @@
+
+a {
+  color: black;
+  font-weight: 600;
+  font-size: 2.5vw;
+}
+
+header {
+  color: black;
+  font-family:  cursive;
+  font-size: 2vw;
+}
+
+h3 {
+  font-family: cursive;
+  font-size: 3vw;
+  text-align: center;
+}
+
+p {
+  font-family: cursive; 
+  font-size: 2vw;
+  text-align: center; 
+  
+}
+
+html {
+  background-color: white;
+}
+
+footer img  {
+  border-radius: 100%;
+  height: 400px;
+  width: 400px;
+  list-style: none;
+  display: inline-block;
+  padding: 25px;
+  margin-left: 150px;
+}
+
+section img {
+ margin-left: 800px;
+ height: 300px;
+ width: 350px;
+ border-radius: 100%;
+ border: 5px solid black;
+ margin-top: 20px;
+}
+
+.dj {
+  border-radius: 100%;
+  margin-left: 37%;
+  margin-right: 63%;
+  border: 5px solid black;
+  width: 25vw;
+  height: 20vw;
+  
+}
+
+.cake {
+  border-radius: 100%;
+  margin-left: 38%;
+  margin-right: 62%;
+  border: 5px solid black;
+	height: 20vw;
+	width: 25vw;
+}
+
+.prom {
+  height: 25vw;
+  width: 35vw;
+  border: none;
+  margin-right: 67%;
+  margin-left: 33%;
+}
+
+.asterisk {
+  font-size: 30px;
+}
+
+.logo {
+  margin-left: 36%;
+  margin-right: 64%;
+  width: 23vw;
+  height: 20vw;
+}
+
+
+
+
+/************************
+ Buttons
+************************/
+
+#buttons {
+  padding-top: 50px;
+  text-align: center;
+}
+
+.btn {
+  border-radius: 5px;
+  padding: 15px 25px;
+  font-size: 2.5vw;
+  text-decoration: none;
+  margin: 20px;
+  color: gold;
+  position: relative;
+  display: inline-block
+}
+
+.home {
+  background-color: black;
+  box-shadow: gray;
+}
+
+.ticket {
+  background-color: black;
+  box-shadow: gray;
+}
+
+.cater {
+  background-color: black;
+  box-shadow: gray;
+}
+
+.entertainment {
+  background-color: black;
+  box-shadow: gray;
+}
+
+
+
+
+
+
+
+
+
+

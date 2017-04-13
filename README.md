@@ -14,13 +14,15 @@ Website:
   We have 4 pages on the Website: Home, Caterer, Entertainment, and Ticket Prices.
   
   Home:
-  This page has the location, data, and time. The firts picture which is the location's logo is a link to directions to the prom's location. There is also 3 pictures of the barn where prom would be held. The buttons are on every page to navigate through the site. 
+    This page has the location, data, and time. The firts picture which is the location's logo is a link to directions to the prom's location. There is also 3 pictures of the barn where prom would be held. The buttons are on every page to navigate through the site. 
     
-    Ticket Prices:
+  Ticket Prices:
     This page tells about the ticket prices, how they change after a certain date, and the ticket limit. It also featured a picture from last year's prom.
       
-      Caterer: 
-       It had the name of the caterer and a picture which links you to the caterer's website that features their menus. 
+  Caterer: 
+    It had the name of the caterer and a picture which links you to the caterer's website that features their menus. 
         
-        Entertainment: 
-        This page names the DJ and what he brings to the prom (photobooth). It has a picture of the DJ which links to his site. 
+  Entertainment: 
+    This page names the DJ and what he brings to the prom (photobooth). It has a picture of the DJ which links to his site.
+    
+   
